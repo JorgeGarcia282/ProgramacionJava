@@ -18,7 +18,7 @@ public class MenuOpciones {
         System.out.println("c. Ordenadores");
         System.out.println("d. Procesadores");
         System.out.println("s. SALIR");
-        System.out.println("Introduce una opcion: ");
+        System.out.println("Introduce una opciooooooon: ");
         char opcion =0;
         while(opcion != 's'){
         System.out.println("Introduce una opcion: ");
